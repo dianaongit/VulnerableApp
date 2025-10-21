@@ -12,7 +12,7 @@ This is a deliberately vulnerable web application built with Go and SQLite for C
 
 - **DO NOT** deploy to production environments
 - **DO NOT** connect to public networks  
-- **DO NOT** use real credentials or sensitive data
+- **DO NOT** use real credentials or sensitive datas
 - **USE ONLY** in isolated training environments
 
 ## Overview
@@ -230,3 +230,4 @@ This project is for educational purposes only. See [LICENSE](./LICENSE) for deta
 ---
 
 **Remember**: This application is intentionally vulnerable. Use only for security training in isolated environments.
+#I want to scan this
