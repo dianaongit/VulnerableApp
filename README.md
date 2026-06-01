@@ -6,6 +6,8 @@
 
 This is a deliberately vulnerable web application built with Go and SQLite for Checkmarx One security testing and training purposes.
 
+## Alterar para forçar PR
+
 ## ⚠️ Security Warning
 
 **This application contains intentional security vulnerabilities for training purposes.**
